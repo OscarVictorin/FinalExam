@@ -1,4 +1,4 @@
-== Heroku link https://git.heroku.com/sleepy-garden-9006.git
+== Heroku link https://sleepy-garden-9006.herokuapp.com/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
